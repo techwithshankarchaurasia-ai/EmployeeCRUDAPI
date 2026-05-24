@@ -1,0 +1,52 @@
+﻿# Build Folders
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Rider
+.idea/
+
+# Logs
+*.log
+
+# Publish Folder
+publish/
+
+# Node Modules
+node_modules/
+
+# Angular Build
+dist/
+
+# Environment Files
+.env
+
+# App Secrets
+appsettings.Development.json
+
+# OS Files
+.DS_Store
+
+# Coverage
+coverage/
+
+# Package Lock (optional)
+package-lock.json
+
+# Azure
+.azure/
+
+# Temp
+temp/
+tmp/
+
+#IIS Express
+.vs/config
+
+# NuGet
+packages/
+*.nupkg
